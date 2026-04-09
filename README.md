@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="/assets/banner.png" alt="Eduardo Echeverria banner" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Eduardo Echeverria 👋</h1>
 
 <p align="center">
