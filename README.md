@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/eduardoecheverria-/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:produccion.echeverria@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -93,8 +90,5 @@ Practice and project work focused on **backend logic**, **REST APIs**, **secure 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardoecheverria-/">
     <img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Echeverria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:produccion.echeverria@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
