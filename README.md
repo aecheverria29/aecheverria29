@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Eduardo Echeverria 👋</h1>
+<h1 align="center">Eduardo Echeverria 👋</h1>
 
 <p align="center">
-  <strong>Security-Focused .NET Engineer</strong><br/>
-  C# /.NET • Application Security • AI Workflows • Microsoft Ecosystem
+  <strong>Software Engineer focused on C#/.NET and Python</strong><br/>
+  Backend Engineering • Application Security • AI-Driven Solutions
 </p>
 
 <p align="center">
@@ -15,73 +15,81 @@
 
 ## About Me
 
-Computer Systems Engineering student focused on becoming a strong **.NET and Application Security engineer** in the **Microsoft ecosystem**.
-
-My main interests are **C#/.NET backend development**, **application security**, **secure software design**, and **AI-driven workflow systems**. I enjoy building reliable software, understanding how systems work internally, and improving security from the application layer to backend logic.
-
-I’m currently working on:
-- **Budget Management System for ENA** with **C#/.NET** and database-driven logic
-- **AI workflow experiments** with **Microsoft Agent Framework**
-- Strengthening my path in **secure backend engineering**, **AI workflows**, and **modern Microsoft technologies**
+Software Engineer focused on **C#/.NET** and **Python**, building backend systems, applied machine learning solutions, and security-oriented software. My work centers on **backend development**, **secure architecture**, and **real-world problem-solving**, with experience across web applications, APIs, applied machine learning, and security-focused testing. I’m especially interested in creating practical, reliable software that connects engineering quality, security, and business value.
 
 ---
 
 ## Core Focus
 
-- Application Security
-- Secure Backend Development
+- Backend Engineering
 - C# / .NET
-- AI Workflows
-- Microsoft Agent Framework
-- Workflow Orchestration
+- Python
+- Application Security
 - REST APIs
-- Microsoft Ecosystem
+- Applied Machine Learning
+- AI-Driven Solutions
+- Secure Software Design
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,py,js,html,git,github,linux,azure,docker,postgres" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,visualstudio,vscode,git,github,linux,azure,postgres" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/ML.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Application%20Security-111827?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Workflows-0F172A?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Agent%20Framework-2563EB?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Workflow%20Orchestration-1D4ED8?style=for-the-badge&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-F97316?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend%20Development-1E293B?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
 ---
 
-## Featured Projects
+## Selected Projects
+
+### Operational Anomaly Detection MVP
+ASP.NET Core MVC MVP for operational anomaly detection using **ML.NET** and **Azure**. Users can upload CSV operational data, run anomaly detection, and review results through summary cards, anomaly rows, and timeline visualizations.
+
+- **Stack:** C#, ASP.NET Core MVC, ML.NET, Azure
+- **Focus:** backend development, applied machine learning, clean layered architecture
+- **Repository:** https://github.com/aecheverria29/operational-anomaly-detection-mlnet
 
 ### ENA Budget Management System
-Institutional budget workflow system built with **C#/.NET** and **SQL**, focused on validation flows, user roles, and structured administrative processes.
+Budget management system built with **C#/.NET** and **SQL Server**, focused on validation rules, status-based flows, and structured administrative processes.
 
-### AI Workflow Engineering
-Workflow-based agent patterns in **C#** using **Microsoft Agent Framework**, including orchestration concepts, executor patterns, and modular AI workflow design.
-
-### Secure Backend Projects
-Practice and project work focused on **backend logic**, **REST APIs**, **secure software design**, and **application-layer security thinking**.
+- **Stack:** C#, .NET, SQL Server
+- **Focus:** backend logic, business rules, internal workflows
+- **Status:** academic / practical project
 
 ---
 
-## Currently Learning & Strengthening
+## Security & Testing
 
-- Agentic AI systems in C#
-- Session-aware AI architectures
-- ML.NET and predictive AI pipelines
-- Application security for modern web systems
-- Secure backend architecture in the Microsoft ecosystem
+My current work also includes security-focused testing for **web and API-based applications**, including areas such as:
+
+- authentication and permission flows
+- API validation and defect analysis
+- web application security review
+- regression and risk-based testing
+
+**Tools:** Playwright, Postman, Swagger, Burp Suite, OWASP ZAP, JMeter
+
+---
+
+## Current Direction
+
+I’m currently strengthening my path in:
+
+- backend engineering with C#/.NET and Python
+- application security for modern web systems
+- applied machine learning and AI-related software solutions
+- clean software architecture and API design
 
 ---
 
