@@ -69,19 +69,6 @@ Budget management system built with **C#/.NET** and **SQL Server**, focused on v
 
 ---
 
-## Security & Testing
-
-My current work also includes security-focused testing for **web and API-based applications**, including areas such as:
-
-- authentication and permission flows
-- API validation and defect analysis
-- web application security review
-- regression and risk-based testing
-
-**Tools:** Playwright, Postman, Swagger, Burp Suite, OWASP ZAP, JMeter
-
----
-
 ## Current Direction
 
 I’m currently strengthening my path in:
