@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Engineer focused on C#/.NET and Python</strong><br/>
-  Backend Engineering • Application Security • AI-Driven Solutions
+  Application Security • LLMs, RAG & Agentic AI Systems • Backend Engineering
 </p>
 
 <p align="center">
@@ -15,19 +15,23 @@
 
 ## About Me
 
-Software Engineer focused on **C#/.NET** and **Python**, building backend systems, applied machine learning solutions, and security-oriented software. My work centers on **backend development**, **secure architecture**, and **real-world problem-solving**, with experience across web applications, APIs, applied machine learning, and security-focused testing. I’m especially interested in creating practical, reliable software that connects engineering quality, security, and business value.
+Software Engineer focused on **C#/.NET** and **Python**, building backend systems, secure software, and AI-powered applications. My work centers on **backend development**, **application security**, and **real-world problem-solving**, with experience across web applications, APIs, machine learning, and security-focused testing.
+
+I’m especially interested in **LLMs**, **RAG pipelines**, **agentic AI systems**, **REST APIs**, and **secure software design**, with a strong preference for practical engineering that connects modern AI capabilities with reliability, maintainability, and business value.
 
 ---
 
 ## Core Focus
 
-- Backend Engineering
 - C# / .NET
 - Python
+- Backend Engineering
 - Application Security
 - REST APIs
+- LLMs
+- RAG Pipelines
+- Agentic AI Systems
 - Applied Machine Learning
-- AI-Driven Solutions
 - Secure Software Design
 
 ---
@@ -67,6 +71,11 @@ Budget management system built with **C#/.NET** and **SQL Server**, focused on v
 - **Focus:** backend logic, business rules, internal workflows
 - **Status:** academic / practical project
 
+### Secure Backend Projects
+Practice and project work focused on **backend logic**, **REST APIs**, **secure software design**, and **application-layer security thinking**.
+
+- **Focus:** backend engineering, API design, application security, maintainable architecture
+
 ---
 
 ## Current Direction
@@ -75,6 +84,7 @@ I’m currently strengthening my path in:
 
 - backend engineering with C#/.NET and Python
 - application security for modern web systems
+- LLM-based applications, RAG, and agentic AI systems
 - applied machine learning and AI-related software solutions
 - clean software architecture and API design
 
