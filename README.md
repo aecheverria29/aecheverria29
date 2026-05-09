@@ -54,21 +54,20 @@ I’m especially interested in **LLMs**, **RAG pipelines**, **agentic AI systems
 </p>
 
 ---
-
 ## Selected Projects
 
 ### Operational Anomaly Detection MVP
-ASP.NET Core MVC MVP for operational anomaly detection using **ML.NET** and **Azure**. Users can upload CSV operational data, run anomaly detection, and review results through summary cards, anomaly rows, and timeline visualizations.
+Built and deployed an **ASP.NET Core MVC MVP** for operational anomaly detection using **ML.NET** and **Azure**. Users can upload CSV operational data, run anomaly detection, and review results through summary cards, anomaly rows, and timeline visualizations.
 
 - **Stack:** C#, ASP.NET Core MVC, ML.NET, Azure
 - **Focus:** backend development, applied machine learning, clean layered architecture
-- **Repository:** https://github.com/aecheverria29/operational-anomaly-detection-mlnet
+- **Repository:** [operational-anomaly-detection-mlnet](https://github.com/aecheverria29/operational-anomaly-detection-mlnet)
 
 ### ENA Budget Management System
-Budget management system built with **C#/.NET** and **SQL Server**, focused on validation rules, status-based flows, and structured administrative processes.
+Contributed to the development of a budget management system for the **Escuela Nacional de Agricultura (ENA)**, a Salvadoran public institution, supporting administrative and financial workflows. The system was built with **C#/.NET** and **SQL Server**, with a focus on validation rules, status-based processes, structured internal operations, and business-rule-driven backend logic.
 
-- **Stack:** C#, .NET, SQL Server
-- **Focus:** backend logic, business rules, internal workflows
+- **Stack:** C#, .NET, SQL Server, Windows Server 2022
+- **Focus:** backend logic, business rules, internal workflows, enterprise-style deployment
 - **Status:** academic / practical project
 
 ### Secure Backend Projects
