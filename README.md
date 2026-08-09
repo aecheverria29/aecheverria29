@@ -1,8 +1,8 @@
 <h1 align="center">Eduardo Echeverria 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer focused on C#/.NET and Python</strong><br/>
-  Application Security • LLMs, RAG & Agentic AI Systems • Backend Engineering
+  <strong>Software Engineer | Full Stack & Application Security</strong><br/>
+  Node.js • React / React Native • C#/.NET • Python • Cloud & AI Systems
 </p>
 
 <p align="center">
@@ -15,77 +15,69 @@
 
 ## About Me
 
-Software Engineer focused on **C#/.NET** and **Python**, building backend systems, secure software, and AI-powered applications. My work centers on **backend development**, **application security**, and **real-world problem-solving**, with experience across web applications, APIs, machine learning, and security-focused testing.
+Computer Systems Engineer specializing in **Full-Stack Software Development**, **Application Security (AppSec)**, and **Cloud Environments**. My work spans building production-grade web and cross-platform mobile applications, engineering backend API architectures, and automating security and performance testing.
 
-I’m especially interested in **LLMs**, **RAG pipelines**, **agentic AI systems**, **REST APIs**, and **secure software design**, with a strong preference for practical engineering that connects modern AI capabilities with reliability, maintainability, and business value.
+I combine hands-on production experience (Node.js, React, React Native, Python) with enterprise system development (C#/.NET, SQL Server) and active project research in **AI workflows (LangGraph, RAG, Agentic Systems)** and **Cybersecurity**. My focus is on delivering secure, reliable, and high-impact software.
 
 ---
 
 ## Core Focus
 
-- C# / .NET
-- Python
-- Backend Engineering
-- Application Security
-- REST APIs
-- LLMs
-- RAG Pipelines
-- Agentic AI Systems
-- Applied Machine Learning
-- Secure Software Design
+- Full-Stack Web & Mobile Development
+- Node.js, C# / .NET & Python
+- Application Security (AppSec) & API Testing
+- Automated QA Pipelines
+- AI Systems (LangGraph, RAG & LLM Integration)
+- Cloud Infrastructure (Azure) & Databases
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,visualstudio,vscode,git,github,linux,azure,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,js,ts,cs,dotnet,py,express,azure,postgres,git,github,vscode,linux" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Application%20Security-111827?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain%2FGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-F97316?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
 </p>
 
 ---
-## Selected Projects
+
+## Selected Experience & Projects
+
+### Nomadica Platform (Bitnova)
+Contributed to the full-stack development, mobile integration, and security validation of **Nomadica**, a multi-portal tourism ecosystem.
+- **Stack:** Node.js, React, React Native, Python, AppSec
+- **Focus:** Backend REST APIs, admin & merchant web portals, cross-platform mobile app development, automated QA, and security auditing.
 
 ### Operational Anomaly Detection MVP
-Built and deployed an **ASP.NET Core MVC MVP** for operational anomaly detection using **ML.NET** and **Azure**. Users can upload CSV operational data, run anomaly detection, and review results through summary cards, anomaly rows, and timeline visualizations.
-
+Built and deployed an **ASP.NET Core MVC MVP** for operational anomaly detection using **ML.NET** and **Azure**.
 - **Stack:** C#, ASP.NET Core MVC, ML.NET, Azure
-- **Focus:** backend development, applied machine learning, clean layered architecture
+- **Focus:** Backend engineering, applied machine learning, cloud deployment, clean architecture.
 - **Repository:** [operational-anomaly-detection-mlnet](https://github.com/aecheverria29/operational-anomaly-detection-mlnet)
 
 ### ENA Budget Management System
-Contributed to the development of a budget management system for the **Escuela Nacional de Agricultura (ENA)**, a Salvadoran public institution, supporting administrative and financial workflows. The system was built with **C#/.NET** and **SQL Server**, with a focus on validation rules, status-based processes, structured internal operations, and business-rule-driven backend logic.
-
+Developed core backend logic and administrative workflows for a Salvadoran public institution's budget management platform.
 - **Stack:** C#, .NET, SQL Server, Windows Server 2022
-- **Focus:** backend logic, business rules, internal workflows, enterprise-style deployment
-- **Status:** academic / practical project
-
-### Secure Backend Projects
-Practice and project work focused on **backend logic**, **REST APIs**, **secure software design**, and **application-layer security thinking**.
-
-- **Focus:** backend engineering, API design, application security, maintainable architecture
+- **Focus:** Enterprise backend logic, role-based access, data validation, status-driven workflows.
 
 ---
 
 ## Current Direction
 
-I’m currently strengthening my path in:
+I am actively sharpening my expertise toward:
 
-- backend engineering with C#/.NET and Python
-- application security for modern web systems
-- LLM-based applications, RAG, and agentic AI systems
-- applied machine learning and AI-related software solutions
-- clean software architecture and API design
+- Application Security (AppSec) and API Security Auditing
+- Advanced Cloud Architecture (Azure)
+- AI Engineering with LangGraph, RAG pipelines, and Agentic Workflows
+- Preparation for advanced Master's studies in Cybersecurity
 
 ---
 
